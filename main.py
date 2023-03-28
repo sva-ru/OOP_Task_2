@@ -47,7 +47,7 @@ if __name__ == '__main__':
     print(intelligence_superhero())
     # Получить путь к загружаемому файлу и токен от пользователя
     path_to_file = 'C:\\Users\\vasya\\PycharmProjects\\Netology\\OOP\\Task 2\\testFile.txt'
-    token = "y0_AgAAAAAVY0POAADLWwAAAADfQLF87d-cmNnETpiCW7aNcxBTPUZ0uHw"
+    token = ""
     print(path_to_file)
     #
     uploader = YaUploader(token)
